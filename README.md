@@ -1,4 +1,5 @@
 ## HR Analytics Dashboard
+![HR Analytics](https://raw.githubusercontent.com/Taqwashorman/HR-Analytics-Dashboard-by-Power-BI/main/HR_dashboard.jpg)
 
 ### Project Overview
 
